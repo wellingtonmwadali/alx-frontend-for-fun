@@ -1,1 +1,1 @@
-# alx-frontend-for-fun
+A set of optional projects during the ALX Specialization.
